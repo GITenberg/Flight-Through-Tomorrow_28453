@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33343
     wikipedia: http://en.wikipedia.org/wiki/Stanton_A._Coblentz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28453#Flight-Through-Tomorrow
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-03-30'
 gutenberg_type: Text
